@@ -8,7 +8,9 @@ CSS for profile pic
 }
 
 .background{
-	background-color:lightblue;
+	background-image: url("../img/bg-landing.jpg");
+	background-size: 100%;
+	min-height: 100%;
 }
 
 .background-landing{
